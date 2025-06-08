@@ -1,0 +1,40 @@
+{
+  "Income Statement": {
+    "Revenue": {
+      "Rental Income": ["005-10AA-006"],
+      "Interest and Investment Income": ["005-10AA-009", "005-10AA-100"]
+    },
+    "Expenses": {
+      "Bank Charges": ["010-30AA-002"],
+      "Management Fees": ["010-30AA-001"],
+      "Other Operating Expenses": []
+    }
+  },
+  "Balance Sheet": {
+    "Assets": {
+      "Current Assets": {
+        "Cash and Cash Equivalents": ["005-30AA-009", "005-40AA-001"],
+        "Receivables": ["005-10AA-006", "005-10AA-100"],
+        "Prepayments": ["005-10AA-008"],
+        "Investments": ["005-30AA-019", "005-30AA-020", "005-30AA-021", "005-30AA-022"]
+      },
+      "Non-Current Assets": {
+        "Property, Plant and Equipment": [],
+        "Intangible Assets": []
+      }
+    },
+    "Liabilities": {
+      "Current Liabilities": {
+        "Accrued Expenses": [],
+        "Security Deposits": ["010-20AA-006"]
+      },
+      "Non-Current Liabilities": {
+        "Long-term Debt": []
+      }
+    },
+    "Equity": {
+      "Share Capital": [],
+      "Retained Earnings": ["010-60AA-001"]
+    }
+  }
+}
